@@ -1,0 +1,5 @@
+{
+  "name": "Story Forge AI-2",
+  "description": "An AI-powered creative assistant for novelists and storytellers. Generate story overviews, plots, characters, and continue chapters with the help of Gemini. Save and load your work locally.",
+  "requestFramePermissions": []
+}
